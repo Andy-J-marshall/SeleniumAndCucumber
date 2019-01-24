@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd0c3989-49ff-4436-ae34-a6f0d9ff88e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/todo.txt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-15428173">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="91" />
+          <entry key="feature" value="1406" />
+          <entry key="java" value="4577" />
+          <entry key="md" value="651" />
+          <entry key="properties" value="77" />
+          <entry key="txt" value="698" />
+          <entry key="xml" value="607" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Cucumber" value="1406" />
+          <entry key="JAVA" value="4577" />
+          <entry key="PLAIN_TEXT" value="789" />
+          <entry key="Properties" value="77" />
+          <entry key="Specification" value="651" />
+          <entry key="XML" value="607" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="_gitignore" value="2" />
+          <entry key="class" value="7" />
+          <entry key="feature" value="23" />
+          <entry key="html" value="2" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="108" />
+          <entry key="md" value="5" />
+          <entry key="properties" value="8" />
+          <entry key="txt" value="11" />
+          <entry key="xml" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="7" />
+          <entry key="Cucumber" value="23" />
+          <entry key="HTML" value="2" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="108" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Properties" value="8" />
+          <entry key="Specification" value="5" />
+          <entry key="XML" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/todo.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>STEP I</find>
+      <find>STEP IS</find>
+      <find>BLAH</find>
+      <find>blah</find>
+      <find>/src/main/SeleniumGoogle/resources/drivers/chromedriver_win32/</find>
+      <find>tearing</find>
+      <find>&quot;Weather forecast cannot be found on page&quot;</find>
+      <find>found on page</find>
+      <find>pro</find>
+      <find>source</find>
+      <find>maven</find>
+      <find>/translation</find>
+      <find>report</find>
+      <find>translat</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/searches/RunCucumberTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/searches/steps/Searches.java" />
+        <option value="$PROJECT_DIR$/src/test/java/searches/steps/LocalEnvConfig.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/searches/steps/Base.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SeleniumGoogle/Base.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/RunCucumberTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/steps/Base.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SeleniumGoogle/Searches.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/steps/LocalEnvConfig.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/steps/Searches.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/pages/BaseSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/steps/ExecutionHook.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/pages/Searches.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/steps/TestState.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/SeleniumGoogle/searches.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/LocalEnvConfig.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/pages/Search.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/pages/SearchResult.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/pages/WeatherSearchResult.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/pages/TranslateSearchResut.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/DriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/pages/TranslateSearchResult.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/Utils/DriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/pages/UnitConversion.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/steps/SearchSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/steps/Steps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/steps/CommonSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/RunALlCucumberTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/RunAllCucumberTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/RunTranslateCucumberTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/RunWeatherForecastCucumberTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/RunUnitConversionCucumberTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/RunTranslationCucumberTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/SeleniumGoogle/weatherForecast.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/SeleniumGoogle/unitConverter.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/SeleniumGoogle/translation.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/testRunner/RunWeatherForecastCucumberTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/RunCucumberTest_All.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/pages/searchResults/Weather.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/SeleniumGoogle/LocalEnvConfig.properties" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/testRunner/RunCucumberTest_Translation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/testRunner/RunCucumberTest_UnitConversion.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/steps/ExecutionHooks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/steps/SearchResultSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/pages/Base.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/pages/searchResults/UnitConversion.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/utils/DriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumGoogle/testRunner/RunCucumberTest_WeatherForecast.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/todo.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="975" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SeleniumGoogle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumGoogle" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="todo&#9;FILE&#9;file://C:/Users/Andrew/Documents/Workspace/SeleniumGoogle/todo.txt&#10;Weather.java:&#9;FILE&#9;file://C:/Users/Andrew/Documents/Workspace/SeleniumGoogle/src/test/java/SeleniumGoogle/pages/searchResults/Weather.java&#10;Weather.java&#9;FILE&#9;file://C:/Users/Andrew/Documents/Workspace/SeleniumGoogle/src/test/java/SeleniumGoogle/pages/searchResults/Weather.java&#10;/src/main/resources/drivers/chromedriver_win32&#9;FILE&#9;file://C:/Users/Andrew/Documents/Workspace/SeleniumGoogle/src/main/resources/drivers/chromedriver_win32&#10;/src/main/resources/drivers/&#9;FILE&#9;file://C:/Users/Andrew/Documents/Workspace/SeleniumGoogle/src/main/resources/drivers&#10;/src/main/resources/&#9;FILE&#9;file://C:/Users/Andrew/Documents/Workspace/SeleniumGoogle/src/main/resources&#10;/src/main/SeleniumGoogle/&#9;FILE&#9;file://C:/Users/Andrew/Documents/Workspace/SeleniumGoogle/src/main/java/SeleniumGoogle" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548292011441" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Selenium/pom.xml" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Andrew\Documents\Workspace\SeleniumGoogle\src\test\resources\SeleniumGoogle\features" />
+      <recent name="C:\Users\Andrew\Documents\Workspace\SeleniumGoogle\src\test\resources\SeleniumGoogle" />
+      <recent name="C:\Users\Andrew\Documents\Workspace\SeleniumGoogle\src\test\resources" />
+      <recent name="C:\Users\Andrew\Documents\Workspace\SeleniumGoogle\src\test\resources\SeleniumGoogle\feature" />
+      <recent name="C:\Users\Andrew\Documents\Workspace\SeleniumGoogle\src\test\java\SeleniumGoogle\Utils" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="SeleniumGoogle" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SeleniumGoogle" />
+      <recent name="SeleniumGoogle.steps" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Andrew\Documents\Workspace\SeleniumGoogle" />
+      <recent name="C:\Users\Andrew\Documents\Workspace\SeleniumGoogle\src\test\java\searches\steps" />
+      <recent name="C:\Users\Andrew\Documents\Workspace\SeleniumGoogle\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RunCucumberTest_WeatherForecast">
+    <configuration name="RunCucumberTest_Translation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumGoogle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumGoogle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumGoogle.testRunner" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumGoogle.testRunner.RunCucumberTest_Translation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCucumberTest_UnitConversion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumGoogle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumGoogle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumGoogle.testRunner" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumGoogle.testRunner.RunCucumberTest_UnitConversion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCucumberTest_WeatherForecast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumGoogle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumGoogle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumGoogle.testRunner" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumGoogle.testRunner.RunCucumberTest_WeatherForecast" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumGoogle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumGoogle.pages.searchResults.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumGoogle" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumGoogle.test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.test" />
+      <item itemvalue="JUnit.RunCucumberTest_Translation" />
+      <item itemvalue="JUnit.RunCucumberTest_UnitConversion" />
+      <item itemvalue="JUnit.RunCucumberTest_WeatherForecast" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunCucumberTest_WeatherForecast" />
+        <item itemvalue="JUnit.RunCucumberTest_UnitConversion" />
+        <item itemvalue="JUnit.RunCucumberTest_Translation" />
+        <item itemvalue="JUnit.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd0c3989-49ff-4436-ae34-a6f0d9ff88e8" name="Default Changelist" comment="" />
+      <created>1547227601593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547227601593</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RunCucumberTest_UnitConversion - 2019.01.21 at 01h 38m 29s.xml">
+      <configuration name="RunCucumberTest_UnitConversion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunCucumberTest_UnitConversion - 2019.01.21 at 01h 39m 52s.xml">
+      <configuration name="RunCucumberTest_UnitConversion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunCucumberTest_WeatherForecast - 2019.01.24 at 00h 37m 32s.xml">
+      <configuration name="RunCucumberTest_WeatherForecast" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunCucumberTest_WeatherForecast - 2019.01.24 at 00h 38m 03s.xml">
+      <configuration name="RunCucumberTest_WeatherForecast" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunCucumberTest_WeatherForecast - 2019.01.24 at 00h 39m 02s.xml">
+      <configuration name="RunCucumberTest_WeatherForecast" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunCucumberTest_WeatherForecast - 2019.01.24 at 00h 40m 27s.xml">
+      <configuration name="RunCucumberTest_WeatherForecast" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunCucumberTest_WeatherForecast - 2019.01.24 at 00h 40m 51s.xml">
+      <configuration name="RunCucumberTest_WeatherForecast" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunCucumberTest_WeatherForecast - 2019.01.24 at 00h 46m 34s.xml">
+      <configuration name="RunCucumberTest_WeatherForecast" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunCucumberTest_WeatherForecast - 2019.01.24 at 00h 47m 07s.xml">
+      <configuration name="RunCucumberTest_WeatherForecast" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunCucumberTest_WeatherForecast - 2019.01.24 at 00h 49m 30s.xml">
+      <configuration name="RunCucumberTest_WeatherForecast" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2872483" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32991204" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39442816" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32991204" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32991204" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>translatedTerm</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/MyStepdefs.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumGoogle/Pages.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumGoogle/utils/TestState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.11.0/selenium-api-3.11.0.jar!/org/openqa/selenium/TakesScreenshot.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumGoogle/pages/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/cucumber/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumGoogle/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/SeleniumGoogle/features/unitConverter.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/SeleniumGoogle/features/translation.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumGoogle.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumGoogle/steps/CommonSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar!/cucumber/runtime/Utils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-edge-driver/3.11.0/selenium-edge-driver-3.11.0.jar!/org/openqa/selenium/edge/EdgeDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/SeleniumGoogle/LocalEnvConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="59" lean-forward="true" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/SeleniumGoogle/features/weatherForecast.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.11.0/selenium-support-3.11.0.jar!/org/openqa/selenium/support/pagefactory/internal/LocatingElementHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumGoogle/steps/ExecutionHooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumGoogle/testRunner/RunCucumberTest_Translation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumGoogle/pages/searchResults/Translate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumGoogle/pages/searchResults/Weather.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumGoogle/steps/SearchResultSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumGoogle/pages/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumGoogle/pages/searchResults/UnitConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumGoogle/testRunner/RunCucumberTest_UnitConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar!/cucumber/api/CucumberOptions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumGoogle/utils/DriverFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/cucumber-reports/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumGoogle/testRunner/RunCucumberTest_WeatherForecast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SeleniumGoogle</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
