@@ -72,7 +72,6 @@
             </plugin>
         </plugins>
     </build>
-
     <profiles>
         <profile>
             <id>Chrome</id>
@@ -84,7 +83,7 @@
                         <artifactId>maven-surefire-plugin</artifactId>
                         <configuration>
                             <systemPropertyVariables>
-                                <browser>chrome</browser>
+                                <browser>Local chrome</browser>
                             </systemPropertyVariables>
                             <testFailureIgnore>false</testFailureIgnore>
                             <includes>
@@ -98,7 +97,7 @@
             </build>
         </profile>
         <profile>
-            <id>Firefox</id>
+            <id>OSXMojaveChrome</id>
             <build>
                 <plugins>
                     <plugin>
@@ -107,7 +106,7 @@
                         <artifactId>maven-surefire-plugin</artifactId>
                         <configuration>
                             <systemPropertyVariables>
-                                <browser>firefox</browser>
+                                <browser>OSXMojaveChrome</browser>
                             </systemPropertyVariables>
                             <testFailureIgnore>false</testFailureIgnore>
                             <includes>
@@ -121,7 +120,7 @@
             </build>
         </profile>
         <profile>
-            <id>Edge</id>
+            <id>W10Firefox</id>
             <build>
                 <plugins>
                     <plugin>
@@ -130,7 +129,7 @@
                         <artifactId>maven-surefire-plugin</artifactId>
                         <configuration>
                             <systemPropertyVariables>
-                                <browser>edge</browser>
+                                <browser>W10Firefox</browser>
                             </systemPropertyVariables>
                             <testFailureIgnore>false</testFailureIgnore>
                             <includes>

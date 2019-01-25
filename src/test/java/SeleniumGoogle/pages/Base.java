@@ -14,7 +14,7 @@ public class Base {
     private WebDriver driver = getDriver();
     private FluentWait<WebDriver> wait = new FluentWait<>(driver)
             .withTimeout(5, SECONDS)
-            .pollingEvery(50, MILLISECONDS);
+            .pollingEvery(100, MILLISECONDS);
 
     protected void webDriverWaitForTitle(String expectedTitle) {
         wait.until(ExpectedConditions.titleContains(expectedTitle));
