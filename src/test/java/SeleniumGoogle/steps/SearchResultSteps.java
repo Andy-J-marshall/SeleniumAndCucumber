@@ -31,12 +31,12 @@ public class SearchResultSteps {
         translate.assertTranslation(expectedTerm);
     }
 
-    @When("^I convert \"([^\"]*)\" kilometres to miles$")
-    public void convertKilometresToMiles(String numberOfKilometres) {
+    @When("^I convert \"([^\"]*)\" feet to miles$")
+    public void convertFeetToMiles(String numberOfFeet) {
         unitConversion.selectConversionTypeFromDropDown("Length");
-        unitConversion.selectLengthUnitFromDropDown("Kilometre");
+        unitConversion.selectLengthUnitFromDropDown("Foot");
         unitConversion.selectConvertedLengthUnitFromDropDown("Mile");
-        unitConversion.enterUnitValueToConvert(numberOfKilometres);
+        unitConversion.enterUnitValueToConvert(numberOfFeet);
     }
 
     @When("^I convert \"([^\"]*)\" pounds to kilograms")

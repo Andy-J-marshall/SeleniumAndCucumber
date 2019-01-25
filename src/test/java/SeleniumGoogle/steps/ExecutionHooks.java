@@ -8,6 +8,8 @@ import cucumber.api.java.Before;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 
+import java.net.MalformedURLException;
+
 import static SeleniumGoogle.utils.DriverFactory.getDriver;
 
 public class ExecutionHooks {
@@ -15,7 +17,7 @@ public class ExecutionHooks {
     private DriverFactory driverFactory = new DriverFactory();
 
     @Before
-    public void driverSetUp() {
+    public void driverSetUp() throws MalformedURLException {
         driverFactory.driverSetUp();
         setTestState(new TestState());
     }
@@ -27,6 +29,7 @@ public class ExecutionHooks {
             takeScreenshot(scenario);
         }
         driverFactory.cleanUpBrowserAfterScenario();
+        deleteTestState();
     }
 
     private void takeScreenshot(Scenario scenario) {
